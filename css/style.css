@@ -1,0 +1,11 @@
+.nav-link{
+    color:#fff;
+}
+.nav-link:hover{
+    color:#bbb;
+}
+.container-fluid{
+    padding-top:250px;
+    padding-bottom:250px;
+    max-width:750px;
+}
